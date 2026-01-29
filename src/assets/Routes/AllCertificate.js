@@ -1,8 +1,8 @@
-import Certificate1 from "../img/Certificate1.webp";
-import Certificate2 from "../img/Certificate2.webp";
-import Certificate3 from "../img/Certificate3.webp";
-import Certificate4 from "../img/Certificate4.webp";
-import Certificate5 from "../img/Certificate5.webp";
+import Certificate1 from "../img/Sabrina-Carpenter-Mans-Best-Friend.webp";
+import Certificate2 from "../img/images (2).webp";
+import Certificate3 from "../img/images (3).webp";
+import Certificate4 from "../img/images (5).webp";
+import Certificate5 from "../img/images (4).webp";
 import Certificate6 from "../img/Certificate6.webp";
 import Certificate7 from "../img/Certificate7.webp";
 import Certificate8 from "../img/Certificate8.webp";
