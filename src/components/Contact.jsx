@@ -1,7 +1,6 @@
 import {
   AiOutlineMail,
   AiFillGithub,
-  AiFillLinkedin,
   AiFillInstagram,
   AiOutlineArrowRight,
 } from "react-icons/ai";
