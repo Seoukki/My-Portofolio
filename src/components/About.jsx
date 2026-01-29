@@ -22,7 +22,7 @@ function About() {
     <>
       <HelmetProvider>
         <Helmet>
-          <title>Thoriq AS - About</title>
+          <title>Seon AS - About</title>
         </Helmet>
       </HelmetProvider>
       <FsLightbox
