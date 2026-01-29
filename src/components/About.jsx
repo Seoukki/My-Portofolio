@@ -42,10 +42,10 @@ function About() {
             Hi ^-^, Saya Muh Ikhsan, seorang siswa yang sedang belajar di SMPN 6 Bukittinggi. Saya sangat tertarik dengan pemrograman dan komputasi. Oleh karena itu, Saya meng kombinasikan Bahasa Program, dan yang saya bisa adalah Javascript, CSS, HTML,
             dan Node.js (sorry pemula), dan saya juga memiliki pengetahuan tentang Software yang sudsh saya latih 2 tahun terakhir, yang memungkinkan saya untuk membuat, mengelola, dan
 
-menyebarkan aplikasi web, bot ai yang dinamis, interaktif, dan aman.
+menyebarkan aplikasi web, bot ai yang dinamis, interaktif, dan aman. dan saya juga menguasai marketing dengan menjual produk seperti e book, Apps Prem, Topup. yang menjadikan skill chatingan saya lebih baik dan ter struktur.
           </p>
 
-          <h4>Certificates</h4>
+          <h4>My Energy</h4>
           <span>─────</span>
           <div className="certificates-wrapper">
             {certificateImages
