@@ -38,7 +38,7 @@ function Home() {
             <br />
             <span className="name-hover">Ikhsan</span>
           </h2>
-          <NavLink to="/contact" className="btn-download text-center">
+          <NavLink to="/about" className="btn-download text-center">
             Let's Connect
           </NavLink>
           {/* <AiFillFileText /> */}
