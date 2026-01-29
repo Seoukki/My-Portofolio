@@ -25,7 +25,7 @@ function Home() {
     <>
       <HelmetProvider>
         <Helmet>
-          <title>Thoriq AS - Home</title>
+          <title>Seon AS - Home</title>
         </Helmet>
       </HelmetProvider>
       <Container fluid className="home-wrapper">
@@ -36,7 +36,7 @@ function Home() {
           <h2>
             <span className="name-hover">Muhammad</span>
             <br />
-            <span className="name-hover">Thoriq Ali Said</span>
+            <span className="name-hover">Ikhsan</span>
           </h2>
           <NavLink to="/contact" className="btn-download text-center">
             Let's Connect
