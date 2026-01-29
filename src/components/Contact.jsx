@@ -47,7 +47,7 @@ function Contact() {
                     <AiOutlineMail />
                     &nbsp;&nbsp;Email
                   </h3>
-                  <p>muhthoriqas1719@gmail.com</p>
+                  <p>fynnxxc@gmail.com</p>
                   <CopyToClipboard text="muhthoriqas1719@gmail.com">
                     <button className="btn-copy" onClick={actionCopy}>
                       {alreadyCopy}&nbsp;&nbsp;
@@ -56,33 +56,14 @@ function Contact() {
                   </CopyToClipboard>
                 </div>
               </div>
-              <div className="col contact-col animate__animated animate__slideInRight">
-                <div className="linkedin-wrapper">
-                  <h3>
-                    <AiFillLinkedin />
-                    &nbsp;&nbsp;Linkedin
-                  </h3>
-                  <p>Muhammad Thoriq Ali Said</p>
-                  <a
-                    href="https://www.linkedin.com/in/thoriqas/"
-                    target="_blank"
-                    rel="noreferrer"
-                    className="btn-direct"
-                  >
-                    Visit&nbsp;&nbsp;
-                    <AiOutlineArrowRight />
-                  </a>
-                </div>
-              </div>
-              <div className="col contact-col animate__animated animate__slideInLeft">
-                <div className="github-wrapper">
+              <div className="col contact-col animate__animated animate__slideInLeft">  <div className="github-wrapper">
                   <h3>
                     <AiFillGithub />
                     &nbsp;&nbsp;GitHub
                   </h3>
-                  <p>ThoriqAS</p>
+                  <p>Seoukki</p>
                   <a
-                    href="https://github.com/Muhthoriqas"
+                    href="https://github.com/Seoukki"
                     target="_blank"
                     rel="noreferrer"
                     className="btn-direct"
@@ -100,7 +81,7 @@ function Contact() {
                   </h3>
                   <p>mthoriq_as</p>
                   <a
-                    href="https://www.instagram.com/mthoriq_as/"
+                    href="https://www.instagram.com/se_o_nn/"
                     target="_blank"
                     rel="noreferrer"
                     className="btn-direct"
