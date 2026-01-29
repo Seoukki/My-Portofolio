@@ -39,13 +39,10 @@ function About() {
         </div>
         <div className="about-right animate__animated animate__fadeIn animate__slower py-3">
           <p>
-            Hi, I'm Muh Thoriq AS, a student studying Information Systems at
-            Hasanuddin University. I have a strong interest in web programming
-            and cloud computing. Specifically, I use a combination of
-            technologies called the MERN stack (MongoDB, Express.js, React.js,
-            Node.js), and I am also knowledgeable in cloud computing using
-            Google Cloud Platform (GCP), which allows me to create, manage, and
-            deploy dynamic, interactive, and secure web applications.
+            Hi ^-^, Saya Muh Ikhsan, seorang siswa yang sedang belajar di SMPN 6 Bukittinggi. Saya sangat tertarik dengan pemrograman dan komputasi. Oleh karena itu, Saya meng kombinasikan Bahasa Program, dan yang saya bisa adalah Javascript, CSS, HTML,
+            dan Node.js (sorry pemula), dan saya juga memiliki pengetahuan tentang Software yang sudsh saya latih 2 tahun terakhir, yang memungkinkan saya untuk membuat, mengelola, dan
+
+menyebarkan aplikasi web, bot ai yang dinamis, interaktif, dan aman.
           </p>
 
           <h4>Certificates</h4>
