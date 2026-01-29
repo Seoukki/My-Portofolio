@@ -24,7 +24,7 @@ function App() {
       <>
         <div className="preload">
           <h1>
-            <strong>Thoriq</strong>
+            <strong>Seon</strong>
             <i> AS</i>.
           </h1>
           <p>─────</p>
