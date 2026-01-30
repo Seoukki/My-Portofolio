@@ -8,7 +8,7 @@ function Skills() {
     <>
       <HelmetProvider>
         <Helmet>
-          <title>Thoriq AS - Skills</title>
+          <title>Seon AS - Skills</title>
         </Helmet>
       </HelmetProvider>
       <Container fluid className="skills-wrapper">
