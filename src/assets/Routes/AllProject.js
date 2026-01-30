@@ -4,8 +4,8 @@ const allProjects = [
     img: require('../img/Project1.webp'),
     description:
       'Meal Map is a website to search food recipes around the world, this website uses the edamam API.',
-    websiteUrl: 'https://muhthoriqas.github.io/Recipe-Foods/',
-    githubUrl: 'https://github.com/Muhthoriqas/Recipe-Foods',
+    websiteUrl: 'https://blog.itsseon.xyz',
+    githubUrl: 'https://blog.itsseon.xyz',
     techStack: ['Javascript', 'SASS', 'RESTful API'],
   },
   {
@@ -13,8 +13,8 @@ const allProjects = [
     img: require('../img/Project17.webp'),
     description:
       'Simple Store is a full-stack website, allowing users to add items, earn tokens, and redeem tokens.',
-    websiteUrl: 'https://store-discount.vercel.app/',
-    githubUrl: 'https://github.com/Muhthoriqas/Store-Discount',
+    websiteUrl: 'https://blog.itsseon.xyz',
+    githubUrl: 'https://blog.itsseon.xyz',
     techStack: ['Next.js', 'Express', 'Firebase'],
   },
   {
@@ -23,7 +23,7 @@ const allProjects = [
     description:
       'Barkit is a rental application with a primary feature of clickbait item detection',
     websiteUrl: '',
-    githubUrl: 'https://github.com/BangkitCapstone2023',
+    githubUrl: 'https://blog.itsseon.xyz',
     techStack: ['Android', 'Express', 'React', 'GCP'],
   },
   {
@@ -31,8 +31,8 @@ const allProjects = [
     img: require('../img/Project13.webp'),
     description:
       'Animal Aid is an organization that saves animals from suffering, rehabilitates and releases them back into the wild (Front-End).',
-    websiteUrl: 'https://animal-aid-thoriqas.vercel.app/',
-    githubUrl: 'https://github.com/Muhthoriqas/Animal-Aid',
+    websiteUrl: 'https://blog.itsseon.xyz',
+    githubUrl: 'https://blog.itsseon.xyz',
     techStack: ['Javascript', 'HTML5', 'CSS3'],
   },
   {
@@ -40,8 +40,8 @@ const allProjects = [
     img: require('../img/Project2.webp'),
     description:
       'Books Hunt is a website to search books from google. This website uses the Google Books APIs.',
-    websiteUrl: 'https://muhthoriqas.github.io/Google-Books-Search-ReactJS/',
-    githubUrl: 'https://github.com/Muhthoriqas/Google-Books-Search-ReactJS',
+    websiteUrl: 'https://blog.itsseon.xyz',
+    githubUrl: 'https://blog.itsseon.xyz',
     techStack: ['React', 'Javascript', 'API'],
   },
   {
@@ -49,8 +49,8 @@ const allProjects = [
     img: require('../img/Project3.webp'),
     description:
       'E-bookpolis is a website for selling and ordering book products (Front-End).',
-    websiteUrl: 'https://muhthoriqas.github.io/E-BookStore/',
-    githubUrl: 'https://github.com/Muhthoriqas/E-BookStore',
+    websiteUrl: 'https://blog.itsseon.xyz',
+    githubUrl: 'https://blog.itsseon.xyz',
     techStack: ['Javascript', 'SwiperJS'],
   },
 
@@ -58,8 +58,8 @@ const allProjects = [
     title: 'Personal Notes',
     img: require('../img/Project15.webp'),
     description: 'A web app to save your notes with CRUD functionalities.',
-    websiteUrl: 'https://personal-notes-thoriqas.vercel.app/',
-    githubUrl: 'https://github.com/Muhthoriqas/Notes-ReactJS',
+    websiteUrl: 'https://blog.itsseon.xyz',
+    githubUrl: 'https://blog.itsseon.xyz',
     techStack: ['ReactJS', 'Redux'],
   },
   {
@@ -68,8 +68,8 @@ const allProjects = [
     description:
       'Dapper barber is a website for finding the best barbers in a city.',
     maintenence: true,
-    websiteUrl: 'https://muhthoriqas.github.io/WebsiteBarber_Dapper/',
-    githubUrl: 'https://github.com/Muhthoriqas/WebsiteBarber_Dapper',
+    websiteUrl: 'https://blog.itsseon.xyz',
+    githubUrl: 'https://blog.itsseon.xyz',
     techStack: ['Bootstrap 5', 'PHP'],
   },
 
@@ -80,7 +80,7 @@ const allProjects = [
       'Food ordering application at Marugame Udon restaurant, this application consists of users/buyers and there is a special application for admin/waitresses',
     websiteUrl: '',
     githubUrl:
-      'https://github.com/Muhthoriqas/AplikasiPemesananMakananMarugameUdon',
+      'https://blog.itsseon.xyz',
     techStack: ['Java', 'Android'],
   },
   {
@@ -88,8 +88,8 @@ const allProjects = [
     img: require('../img/Project7.webp'),
     description:
       'Is a website to find the current weather around the world, this website uses the OpenWeather API.',
-    websiteUrl: 'https://muhthoriqas.github.io/WeatherApp-React/',
-    githubUrl: 'https://github.com/Muhthoriqas/WeatherApp-React',
+    websiteUrl: 'https://blog.itsseon.xyz',
+    githubUrl: 'https://blog.itsseon.xyz',
     techStack: ['ReactJS', 'SCSS', 'API'],
   },
   {
@@ -98,7 +98,7 @@ const allProjects = [
     description:
       'The project we created is a hoax news detection website, by simply entering the url of the news website you want to know the truth of.',
     websiteUrl: '',
-    githubUrl: 'https://github.com/Muhthoriqas/Hoax-News-Detection',
+    githubUrl: 'https://blog.itsseon.xyz',
     techStack: ['Python', 'Flask', 'Bootstrap5', 'ML'],
   },
   // {
@@ -126,7 +126,7 @@ const allProjects = [
     description:
       'Website for ordering food and drinks, on this website there is a special menu for the admin who can change the menu food and users who can only view and order food',
     websiteUrl: '',
-    githubUrl: 'https://github.com/Muhthoriqas/FoodOrdering-Django',
+    githubUrl: 'https://blog.itsseon.xyz',
     techStack: ['Python', 'Django'],
   },
 ];
