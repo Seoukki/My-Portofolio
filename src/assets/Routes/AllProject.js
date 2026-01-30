@@ -36,15 +36,6 @@ const allProjects = [
     techStack: ['Javascript', 'HTML5', 'CSS3'],
   },
   {
-    title: 'Books Hunt',
-    img: require('../img/Project2.webp'),
-    description:
-      'Books Hunt is a website to search books from google. This website uses the Google Books APIs.',
-    websiteUrl: 'https://blog.itsseon.xyz',
-    githubUrl: 'https://blog.itsseon.xyz',
-    techStack: ['React', 'Javascript', 'API'],
-  },
-  {
     title: 'E-Bookpolis',
     img: require('../img/Project3.webp'),
     description:
