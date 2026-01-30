@@ -78,7 +78,7 @@ function Contact() {
                     <AiFillInstagram />
                     &nbsp;&nbsp;Instagram
                   </h3>
-                  <p>mthoriq_as</p>
+                  <p>se_o_nn</p>
                   <a
                     href="https://www.instagram.com/se_o_nn/"
                     target="_blank"
